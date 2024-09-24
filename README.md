@@ -2,3 +2,5 @@ When working with a Nicolet spectrophotometer, the files created are in spa form
 Notice that I specified the wavenumbers that I work with, you may need to change that. When trying to read the wavenumbers from the spa file instead, the computer crashed, so I incorporated them manually.
 
 You will need to install spectrochempy, which works with python 3.9 and 3.10
+
+**Added variable data frame detection so that different IR instruments can be used with this script** -Adahuncle
